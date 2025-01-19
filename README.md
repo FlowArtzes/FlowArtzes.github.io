@@ -5,7 +5,7 @@ This is my personal portfolio website, showcasing projects, skills, and contact 
 ## Features
 - **Projects**: Displays various projects and technologies I've worked with.
 - **Skills**: Lists my technical competencies including web development, networking, and IoT.
-- **Contact**: Provides details for reaching out via email.
+- **Contact**: You can Contact my LinkeDin here [https://www.linkedin.com/in/tao-mills-5671b8243/]
 
 ## Technologies Used
 - HTML
