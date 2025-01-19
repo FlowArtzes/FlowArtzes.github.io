@@ -61,3 +61,16 @@ const scrollUp = () => {
 }
 
 document.addEventListener('scroll', scrollUp)
+
+// Scroll Up Button Visibility
+const scrollUpButton = document.querySelector('.scroll-top');
+
+// Show or hide the button based on the scroll position
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 100) {
+    scrollUpButton.style.display = 'block';  // Show button
+  } else {
+    scrollUpButton.style.display = 'none';   // Hide button
+  }
+});
+
